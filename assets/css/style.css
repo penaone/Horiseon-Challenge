@@ -24,7 +24,7 @@ header h1 {
 header h1 .seo {
     color: #DBDED7;
 }
-
+/* apply styles to navigation*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -85,7 +85,8 @@ p {
     height: 100%;
     background-color: #2589bd;
 }
-
+/* sidebar styling and formatting*/
+/*Combine several sections eliminate duplicate code*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -109,8 +110,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End sidebar styling and formatting*/
 
 
+/*article section design and formatting Combine each article eliminate duplication*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
