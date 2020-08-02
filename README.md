@@ -4,7 +4,7 @@ Cleaned up code and eliminated footer per the Mock-up!
 
 The provided code while mostly funcional was quite messy and had some defects.
 I had to repair a link.
-I had to put in alt notations. The images were all decorative so no text was needed.
+I had to put in alt notations. Some of the images were all decorative so no text was needed. Others required brief descriptions.
 
 The code had problems in the index file with duplication in using a ID as well as a Class type of Code for the same thing.
 I removed the ID and cleaned up the Class designations.
